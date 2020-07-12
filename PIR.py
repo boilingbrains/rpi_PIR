@@ -47,8 +47,8 @@ def do_post():
     currentstate= 0
     def notif(msg):
         API_ENDPOINT = "https://api.getnotify.me/submit"
-        API_KEY = "nm8c6807d214"
-        API_SECRET = "sce6043aba2f"
+        API_KEY = ""
+        API_SECRET = ""
         data = {'message':msg}
         r = requests.post(url = API_ENDPOINT, json=data, auth=(API_KEY, API_SECRET))
         print(msg)
