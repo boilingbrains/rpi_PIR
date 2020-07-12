@@ -1,2 +1,2 @@
-# RaspberryPi
-Tous les projets sur raspberry pi
+# RaspberryPi_PIR
+Projet raspberry PIR sensor + Alexa + IFTTT
