@@ -1,2 +1,2 @@
-# RaspberryPi_PIR
+# RaspberryPi
 Projet raspberry PIR sensor + Alexa + IFTTT
